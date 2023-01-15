@@ -1,0 +1,27 @@
+{
+    "appData": {
+        "urlPageElementsRequest": "https://nordcheckout.com/?product_group=nordvpn&cart_id=*",
+        "urlProductsRequest": "https://debug.nordsec.com/api/2/envelope/*",
+        "urlApi": "https://api.nordvpn.com/v1/helpers/ips/insights",
+        "contentTypeAppJSON": "application/json",
+        "apiToken": "Bearer "
+    },
+    "HTTP_Method":{
+        "GET": "GET",
+        "POST": "POST",
+        "PUT": "PUT",
+        "PATCH": "PATCH",
+        "DELETE": "DELETE"
+    },
+    "personalData": {
+        "salutationMr": "Mr",
+        "salutationMrs": "Mrs",
+        "firstName": "Victor",
+        "lasttName": "Caminero",
+        "userTest": "userTest",
+        "genderMale": "male",
+        "genderFemale": "female",
+        "statusActive": "active",
+        "statusInactive": "inactive"
+    }
+}
